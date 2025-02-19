@@ -1,4 +1,4 @@
-package br.com.programando.livraria.livraria.controller;
+package livraria.src.main.java.br.com.programando.livraria.livraria.controller;
 
 import br.com.programando.livraria.livraria.model.Livro;
 import br.com.programando.livraria.livraria.service.LivroService;

@@ -1,6 +1,7 @@
 package com.zup.biblioteca_catalisa.repository;
 
-import br.com.programando.livraria.livraria.model.Livro;
+
+import com.zup.biblioteca_catalisa.model.Livro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

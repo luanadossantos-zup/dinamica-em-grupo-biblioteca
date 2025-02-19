@@ -1,7 +1,8 @@
 package com.zup.biblioteca_catalisa.controller;
 
-import br.com.programando.livraria.livraria.model.Livro;
-import br.com.programando.livraria.livraria.service.LivroService;
+
+import com.zup.biblioteca_catalisa.model.Livro;
+import com.zup.biblioteca_catalisa.service.LivroService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

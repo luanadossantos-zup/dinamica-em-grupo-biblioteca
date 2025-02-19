@@ -1,7 +1,8 @@
 package com.zup.biblioteca_catalisa.service;
 
-import br.com.programando.livraria.livraria.model.Livro;
-import br.com.programando.livraria.livraria.repository.LivroRepository;
+
+import com.zup.biblioteca_catalisa.model.Livro;
+import com.zup.biblioteca_catalisa.repository.LivroRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

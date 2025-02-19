@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/biblioteca-catalisa.iml" filepath="$PROJECT_DIR$/.idea/biblioteca-catalisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biblioteca-catalisa/biblioteca-catalisa.iml" filepath="$PROJECT_DIR$/biblioteca-catalisa/biblioteca-catalisa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dinamica-em-grupo-biblioteca.iml" filepath="$PROJECT_DIR$/.idea/dinamica-em-grupo-biblioteca.iml" />
     </modules>
   </component>
 </project>

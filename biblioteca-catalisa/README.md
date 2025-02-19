@@ -1,7 +1,3 @@
-xemplo de um arquivo README.md para o seu projeto:
-
-
-
 # Sistema de Gerenciamento de Biblioteca 📚
 
 Este é um projeto simples em Java que implementa um sistema de gerenciamento de biblioteca. 
